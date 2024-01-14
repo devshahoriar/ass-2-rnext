@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Absens Sufficio Quos",
+    "price": 4,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Neal Keeling",
+    "star": 3,
+    "pubYear": 2023,
+    "isFeb": false
+  },
+  {
+    "id": 2,
+    "name": "Consequuntur Umquam Benigne Arto Culpo",
+    "price": 5,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Naomi Cremin IV",
+    "star": 1,
+    "pubYear": 1980,
+    "isFeb": false
+  },
+  {
+    "id": 3,
+    "name": "Creta Carpo Ancilla Fugiat Conor",
+    "price": 5,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Jessie Hermiston",
+    "star": 3,
+    "pubYear": 2002,
+    "isFeb": false
+  },
+  {
+    "id": 4,
+    "name": "Aspicio Condico Cilicium Carus",
+    "price": 1,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Jana Kshlerin",
+    "star": 1,
+    "pubYear": 2006,
+    "isFeb": false
+  },
+  {
+    "id": 5,
+    "name": "Repellat Antepono Terreo Tardus",
+    "price": 1,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Dr. Dallas Deckow",
+    "star": 1,
+    "pubYear": 1820,
+    "isFeb": false
+  },
+  {
+    "id": 6,
+    "name": "Depereo Dolor",
+    "price": 1,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Nancy Wunsch",
+    "star": 3,
+    "pubYear": 2000,
+    "isFeb": false
+  },
+  {
+    "id": 7,
+    "name": "Timidus Carbo Laboriosam",
+    "price": 1,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Conrad Willms",
+    "star": 4,
+    "pubYear": 1730,
+    "isFeb": false
+  },
+  {
+    "id": 8,
+    "name": "Antiquus Vomito",
+    "price": 4,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Ella Mayert",
+    "star": 5,
+    "pubYear": 2007,
+    "isFeb": false
+  },
+  {
+    "id": 9,
+    "name": "Testimonium Utique Admiratio Vicinus Deorsum",
+    "price": 4,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Julia McLaughlin III",
+    "star": 2,
+    "pubYear": 2011,
+    "isFeb": false
+  },
+  {
+    "id": 10,
+    "name": "Amor Super Nam Cupiditate In",
+    "price": 4,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Brenda Vandervort",
+    "star": 4,
+    "pubYear": 2009,
+    "isFeb": false
+  },
+  {
+    "id": 11,
+    "name": "Clarus Volo Atrox",
+    "price": 3,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Jaime Zulauf",
+    "star": 1,
+    "pubYear": 1986,
+    "isFeb": false
+  },
+  {
+    "id": 12,
+    "name": "Tenax Conqueror Credo Acsi",
+    "price": 3,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Sandy Homenick",
+    "star": 4,
+    "pubYear": 1984,
+    "isFeb": false
+  },
+  {
+    "id": 13,
+    "name": "Acer Supellex Recusandae Coruscus",
+    "price": 1,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Kelvin Grimes",
+    "star": 5,
+    "pubYear": 1971,
+    "isFeb": false
+  },
+  {
+    "id": 14,
+    "name": "Abstergo Auctus Audeo Voluntarius",
+    "price": 3,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Ebony Satterfield",
+    "star": 4,
+    "pubYear": 2009,
+    "isFeb": false
+  },
+  {
+    "id": 15,
+    "name": "Caveo Ipsa Denique",
+    "price": 2,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Miriam Turcotte",
+    "star": 4,
+    "pubYear": 2014,
+    "isFeb": false
+  },
+  {
+    "id": 16,
+    "name": "Carbo Auxilium Uberrime Vix",
+    "price": 2,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Patty Monahan",
+    "star": 4,
+    "pubYear": 1956,
+    "isFeb": false
+  },
+  {
+    "id": 17,
+    "name": "Distinctio Abbas Tergiversatio",
+    "price": 3,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Amos Reinger",
+    "star": 3,
+    "pubYear": 1890,
+    "isFeb": false
+  },
+  {
+    "id": 18,
+    "name": "Aestas Tollo Cibo Cilicium Decipio",
+    "price": 5,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Tanya Bogan",
+    "star": 5,
+    "pubYear": 1500,
+    "isFeb": false
+  },
+  {
+    "id": 19,
+    "name": "Aperio Ratione",
+    "price": 1,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Mr. Homer Klein-Rowe",
+    "star": 2,
+    "pubYear": 1600,
+    "isFeb": false
+  },
+  {
+    "id": 20,
+    "name": "Harum Tam Caelum Acsi Deserunt",
+    "price": 4,
+    "coverImage": "https://loremflickr.com/640/480",
+    "author": "Miss Lillie Bergnaum",
+    "star": 5,
+    "pubYear": 1700,
+    "isFeb": false
+  }
+]
